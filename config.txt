@@ -1,0 +1,3 @@
+name:demo
+path:/home/a/Documents/golang
+imports:fmp,os,net/http,strings
